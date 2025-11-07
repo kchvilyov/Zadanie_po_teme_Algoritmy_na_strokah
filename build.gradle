@@ -4,11 +4,8 @@ plugins {
 }
 
 ext {
-    junitVersion = "5.7.0"
+    junitVersion = "5.9.3"
 }
-
-sourceCompatibility = "17"
-targetCompatibility = "17"
 
 idea {
     module {
